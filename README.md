@@ -4,9 +4,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickElc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickElc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div class="Icon" style="text-align: center;" align="center"></br>
+<div class="Icon" ></br>
   </br>
-   <img align="center" alt="Js" style="text-align: center;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Js" style="text-align: start;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" style="text-align: center;"justify="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" style="text-align: center;"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" style="text-align: center;"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
