@@ -1,8 +1,8 @@
 ### Olá 👋
 <div align="center">
   <a href="https://github.com/ErickElc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickElc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickElc&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickElc&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickElc&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div class="Icon" ></br>
   </br>
