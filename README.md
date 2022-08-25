@@ -9,7 +9,8 @@
    <img align="center" alt="Js" style="text-align: start;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
    <img align="center" alt="Ts" style="text-align: start;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
    <img align="center" alt="React" style="text-align: center;"justify="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-   <img align="center" alt="nodejs" style="text-align: start;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
+   <img align="center" alt="nodejs" style="text-align: start;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+   <img align="center" alt="mongodb" style="text-align: start;"height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">   
 </div>
 <div> 
   </br>
