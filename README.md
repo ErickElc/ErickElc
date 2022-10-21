@@ -18,6 +18,7 @@
  </br>
   <a href = "mailto:ericklucas@id.uff.br" align="center"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-nascimento-1926a8231/" align="center" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/1j0JQgqjnD2YXNfOifBZIcBmDM38ObQ8c/view?usp=sharing" align="center"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
  
   ![Snake animation](https://github.com/ErickElc/ErickElc/blob/output/github-contribution-grid-snake.svg)
  
