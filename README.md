@@ -1,5 +1,7 @@
-### Olá! Me chamo Erick 👋
-
+### Me chamo Erick 👋
+<p>
+       Sou Desenvolvedor Full-stack, comecei os meus estudos há um ano,  sendo orientado no meu meio de ensino pela UFF, mas busquei me aprofundar através de cursos por fora. Agora estou começando a estudar desenvolvimento IOS nativo usando swift
+  </p>
 <div align="center">
   <a href="https://github.com/ErickElc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickElc&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -21,7 +23,7 @@
  </br>
   <a href = "mailto:ericklucas@id.uff.br" align="center"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-nascimento-1926a8231/" align="center" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://drive.google.com/file/d/1j0JQgqjnD2YXNfOifBZIcBmDM38ObQ8c/view?usp=sharing" align="center"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1ZTKzBjlQtF3dmszqOpDRSQQCt2ymtaR2/view?usp=sharing" align="center"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
  
   ![Snake animation](https://github.com/ErickElc/ErickElc/blob/output/github-contribution-grid-snake.svg)
  
