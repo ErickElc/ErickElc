@@ -1,6 +1,6 @@
-### Me chamo Erick 👋
+### Hi 👋
 <p>
-       Sou Desenvolvedor Full-stack, comecei os meus estudos há um ano,  sendo orientado no meu meio de ensino pela UFF, mas busquei me aprofundar através de cursos por fora. Agora estou começando a estudar desenvolvimento IOS nativo usando swift
+       I am a software engineer, I started my studies a year ago, being oriented in the middle of teaching at the Federal University Fluminense - UFF , but I sought to deepen my studies in programming, today I work with web and mobile development using javascript, typescript, React and react native
   </p>
 <div align="center">
   <a href="https://github.com/ErickElc">
