@@ -188,7 +188,6 @@
 <br><br><br><br><br><br><br>
  <!-- <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=erickelc&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&logoColor=BF91F3&color=70A5FD" alt="erickelc profile visitors" height="40px" /> -->
 <br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
 <div> 
   </br>
  </br>
