@@ -11,8 +11,7 @@
 <div class="Icon" ></br>
   </br>
 <h2 align="center">🛠️ &ensp; <i>P r i n c i p a i s    T e c n o l o g i a s</i></h2>
-<img align="left" width="268px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko"/>
-<table align="right" height="267px">
+<table align="center" height="267px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
