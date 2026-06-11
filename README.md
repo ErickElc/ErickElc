@@ -1,8 +1,4 @@
 ### Hi 👋
-
-<p>
-       I am a software engineer, I started my studies a year ago, being oriented in the middle of teaching at the Federal University Fluminense - UFF , but I sought to deepen my studies in programming, today I work with web and mobile development using javascript, typescript, React and react native
-  </p>
 <div align="center">
   <a href="https://github.com/ErickElc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ErickElc&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
